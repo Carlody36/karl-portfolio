@@ -1,18 +1,33 @@
-# React + Vite
+# Karl William Lee - Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio! This website showcases my frontend development projects, skills, and contact information.
 
-Currently, two official plugins are available:
+## 🚀 About Me
+Hi! I'm Karl, a frontend developer passionate about creating responsive, user-friendly web applications using **React**, **Tailwind CSS**, and **JavaScript (ES6)**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 💻 Projects
+Here are some of my projects:
 
-## React Compiler
+- **[Todo App](https://github.com/Carlody36/todo-list-js)** – A simple task manager with localStorage.
+- **[School Website](https://github.com/Carlody36/my-school-site)** – A responsive website for my school.
+- **[Apple Website Clone](https://github.com/Carlody36/apple-website-clone)** – A clone of Apple’s homepage using React and Tailwind.
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+## 🛠 Tech Stack
+- **HTML5** – Structure  
+- **Tailwind CSS** – Responsive styling  
+- **JavaScript (ES6)** – App logic  
+- **React** – Frontend framework  
+- **LocalStorage** – Data persistence  
 
-Note: This will impact Vite dev & build performances.
+## 📌 Features
+- Fully responsive design 🌐  
+- Interactive UI components ⚡  
+- Modern, clean design 🎨  
 
-## Expanding the ESLint configuration
+## 📫 Contact Me
+- **Email:** karlwilliamlee@gmail.com  
+- **Phone:** 09555318846  
+- **GitHub:** [Carlody36](https://github.com/Carlody36)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
